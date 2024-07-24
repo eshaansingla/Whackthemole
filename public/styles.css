@@ -18,7 +18,7 @@ body{
     background-image: url("dirt.jpg");
     background-size: cover;
     background-position: center;
-    background-repeat:no-repeat;
+    background-repeat:repeat;
     cursor: url('thor.png'), auto;
     margin: 0px;
     padding: 0px; 
