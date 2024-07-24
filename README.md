@@ -1,1 +1,1 @@
- <h1>https://whackthemole.onrender.com/</h1>
+<button href="https://whackthemole.onrender.com/" target="_blank">Clicck me</button>
